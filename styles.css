@@ -1,0 +1,147 @@
+body{
+    margin:0px;
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-size: 5.236rem;
+     margin-top:30px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    height: 0px;
+    width:8%;
+    border-color:grey;
+}
+.top-container{
+    background-color:#FDEBF7;
+    position:relative;
+    padding-top: 50px;
+    font-weight: normal;
+    font-size:30px;
+    color: #66BFBF;
+}
+.top-cloud{
+    position:absolute;
+    right: 50px;
+    top:40px;
+    width: 150px;
+    height:150px;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left:50px;
+    bottom:30px;
+    width: 150px;
+    height:150px;
+}
+.mount{
+    width: 100px;
+    height:100px;
+}
+img{
+    width: 100px;
+    height:100px;
+}
+
+
+
+.profile{
+    width:50%;
+    margin: 50px auto 100px auto;
+    line-height: 2;
+
+}
+.skill-row{
+    width:50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.python{
+    float:left;
+    margin-right: 30px;
+}
+.com{
+    float:right;
+    margin-left: 30px;
+}
+.btn {
+    background: #8fc0e0;
+    background-image: -webkit-linear-gradient(top, #8fc0e0, #2980b9);
+    background-image: -moz-linear-gradient(top, #8fc0e0, #2980b9);
+    background-image: -ms-linear-gradient(top, #8fc0e0, #2980b9);
+    background-image: -o-linear-gradient(top, #8fc0e0, #2980b9);
+    background-image: linear-gradient(to bottom, #8fc0e0, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+   font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.bottom-container{
+   background-color: #C238B5;
+   margin-top:10px;
+   padding: 20px;
+   color:whitesmoke;
+   width:auto;
+   height:50px;
+   position:fix;
+}
+.Contact-me{
+    padding:20px;
+
+}
+
+.linked{
+    width:20px;
+    height:20px;
+    margin-right: 10px;
+}
+.git{
+    width:20px;
+    height:20px;
+    margin-left: 10px;
+
+}
+.twitter{
+    width:20px;
+    height:20px;
+    
+}
